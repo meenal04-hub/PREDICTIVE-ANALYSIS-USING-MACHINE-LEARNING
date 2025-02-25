@@ -11,3 +11,5 @@
 **DOMAIN** : Data Analytics
 
 **DURATION** : 6 weeks
+
+**MENTOR NAME** : Neela Santhosh Kumar
